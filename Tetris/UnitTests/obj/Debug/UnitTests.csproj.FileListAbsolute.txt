@@ -1,0 +1,12 @@
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\bin\Debug\UnitTests.dll
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\bin\Debug\UnitTests.pdb
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\bin\Debug\Console2DTetris.exe
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\bin\Debug\nunit.framework.dll
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\bin\Debug\TetrisLibrary.dll
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\bin\Debug\Console2DTetris.pdb
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\bin\Debug\TetrisLibrary.pdb
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\bin\Debug\nunit.framework.xml
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\obj\Debug\UnitTests.dll
+D:\Ruslan\Perfect Tetris\Tetris\UnitTests\obj\Debug\UnitTests.pdb
