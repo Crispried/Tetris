@@ -1,8 +1,0 @@
-D:\Ruslan\Perfect Tetris\Tetris\Console2DTetris\bin\Debug\Console2DTetris.exe.config
-D:\Ruslan\Perfect Tetris\Tetris\Console2DTetris\bin\Debug\Console2DTetris.exe
-D:\Ruslan\Perfect Tetris\Tetris\Console2DTetris\bin\Debug\Console2DTetris.pdb
-D:\Ruslan\Perfect Tetris\Tetris\Console2DTetris\bin\Debug\TetrisLibrary.dll
-D:\Ruslan\Perfect Tetris\Tetris\Console2DTetris\bin\Debug\TetrisLibrary.pdb
-D:\Ruslan\Perfect Tetris\Tetris\Console2DTetris\obj\Debug\Console2DTetris.csprojResolveAssemblyReference.cache
-D:\Ruslan\Perfect Tetris\Tetris\Console2DTetris\obj\Debug\Console2DTetris.exe
-D:\Ruslan\Perfect Tetris\Tetris\Console2DTetris\obj\Debug\Console2DTetris.pdb
